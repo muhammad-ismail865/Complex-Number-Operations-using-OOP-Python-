@@ -142,6 +142,3 @@ complex-number-project/
 * Use of operator overloading
 * Working with user input
 * Designing mathematical models using classes
-
-
-Just tell 👍
